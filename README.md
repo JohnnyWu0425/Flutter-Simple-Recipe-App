@@ -1,8 +1,8 @@
 # Flutter Simple Recipe App
 
 Screen Capture |
-----------------
-![gif](https://github.com/JohnnyWu0425/Flutter-Simple-Recipe-App/blob/master/video%20capture.gif) |
+-------------- |
+![gif](https://github.com/JohnnyWu0425/Flutter-Simple-Recipe-App/blob/master/video%20capture.gif)|
 
 ## Getting Started
 
